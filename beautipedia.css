@@ -283,6 +283,7 @@
 	
 	#content {
 		/*General, white, rounded corner backdrop, shadow*/
+		width: 40em;
 		margin: 3em auto 0 auto !important;
 		padding: 0.5em 2.5em 1.5em 2.5em !important;
 		border: #CACACA solid 1px !important;
